@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/ARPGProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Locomotion/LocomotionBlendSpace.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/ABP_Character.uasset",
+				"C:/Projects/ARPGProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Crouched/crouched.uasset",
+				"C:/Projects/ARPGProject/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Projects/ARPGProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Lean/Lean_Left.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Lean/Lean_Right.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/RPGCharacter/Animations/Lean/leanBlendSpace.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/Mannequins/Materials/Instances/Quinn/Quinn_Blue.uasset",
+				"C:/Projects/ARPGProject/Content/Characters/Mannequins/Materials/Instances/Quinn/Quinn_Blue_2.uasset",
+				"C:/Projects/ARPGProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+			]
+		}
+	]
+}
